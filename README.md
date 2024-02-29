@@ -1,4 +1,4 @@
-QR-Code-Scanner
+QR-Code-Scanner 
 its An Application to scan and generate QR-Codes.
 
 Screen Shots
