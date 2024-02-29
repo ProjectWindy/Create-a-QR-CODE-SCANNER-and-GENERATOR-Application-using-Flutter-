@@ -1,5 +1,5 @@
 QR-Code-Scanner 
-its An Application to scan and generate QR-Codes.
+its An Application to scan and generate QR-Codes..
 
 Screen Shots
 This project is a starting point for a Flutter application.
